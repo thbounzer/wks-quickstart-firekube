@@ -110,7 +110,7 @@ items:
         containers:
         - args:
           - --ssh-keygen-dir=/var/fluxd/keygen
-          - --git-url=https://thbounzer@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:github.com/wks-quickstart-firekube.git
+          - --git-url=https://thbounzer@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:github.com/thbounzer/wks-quickstart-firekube.git
           - --git-branch=master
           - --git-poll-interval=30s
           - --git-path=.
